@@ -1,10 +1,13 @@
-Future<List<num>> multiplyListData(List<num> data, num multiplier) async {
-  List<num> result = [1, 2, 3, 4, 5];
-  for (num elem in data) {
-    // Lakukan perulangan secara asynchronous
-    await Future.delayed(Duration.zero);
-    // Kalikan elemen dengan pengali
-    result.add(elem * multiplier);
-  }
+Future<List<double>> multiplyListAsync(List<double> data, double multiplier) async {
+  List<double> result = [];
+  await Future.forEach(data, (item) {
+    result.add(item * multiplier);
+  });
   return result;
+}
+void main() async {
+  List<double> data = [1, 2, 3, 4, 5];
+  double multiplier = 3;
+  List<double> result = await multiplyListAsync(data, multiplier);
+  print(result);
 }
