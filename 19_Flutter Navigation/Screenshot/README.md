@@ -1,0 +1,11 @@
+#Upload Screenshoot section 19
+![Upload Screenshoot Tugas section 19](section%2019_1.png)
+![Upload Screenshoot Tugas section 19](section%2019_2.png)
+![Upload Screenshoot Tugas section 19](section%2019_3.png)
+![Upload Screenshoot Tugas section 19](section%2019_4.png)
+![Upload Screenshoot Tugas section 19](section%2019_5.png)
+![Upload Screenshoot Tugas section 19](section%2019_6.png)
+![Upload Screenshoot Tugas section 19](section%2019_7.png)
+![Upload Screenshoot Tugas section 19](section%2019_8.png)
+![Upload Screenshoot Tugas section 19](section%2019_9.png)
+![Upload Screenshoot Tugas section 19](section%2019_10.png)

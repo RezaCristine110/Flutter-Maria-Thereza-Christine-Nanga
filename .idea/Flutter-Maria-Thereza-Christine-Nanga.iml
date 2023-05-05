@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/13_Platform-widget/Pratikum/section_13/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/13_Platform-widget/Pratikum/section_13/build" />
+      <excludeFolder url="file://$MODULE_DIR$/13_Platform-widget/Pratikum/section_13/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/16_Flutter Form(Form Input Button) Advance From/Pratikum/section_16/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/16_Flutter Form(Form Input Button) Advance From/Pratikum/section_16/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/16_Flutter Form(Form Input Button) Advance From/Pratikum/section_16/build" />
+      <excludeFolder url="file://$MODULE_DIR$/15_Flutter Layout/Pratikum/section_15/build" />
+      <excludeFolder url="file://$MODULE_DIR$/15_Flutter Layout/Pratikum/section_15/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/15_Flutter Layout/Pratikum/section_15/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/9_dart object oriented programming 1/Pratikum/dart_application_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/9_dart object oriented programming 1/Pratikum/dart_application_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/9_dart object oriented programming 1/Pratikum/dart_application_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/10_deep dive into dart object oriented programing/Pratikum/section10/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/10_deep dive into dart object oriented programing/Pratikum/section10/build" />
+      <excludeFolder url="file://$MODULE_DIR$/10_deep dive into dart object oriented programing/Pratikum/section10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/18_Dialog Bottom sheet/Pratikum/section_18/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/18_Dialog Bottom sheet/Pratikum/section_18/build" />
+      <excludeFolder url="file://$MODULE_DIR$/18_Dialog Bottom sheet/Pratikum/section_18/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/19_Flutter Navigation/Pratikum/section_19/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/19_Flutter Navigation/Pratikum/section_19/build" />
+      <excludeFolder url="file://$MODULE_DIR$/19_Flutter Navigation/Pratikum/section_19/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/6_Fundamental Dart/Pratikum/tugas section6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/6_Fundamental Dart/Pratikum/tugas section6/build" />
+      <excludeFolder url="file://$MODULE_DIR$/6_Fundamental Dart/Pratikum/tugas section6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/7_Branching-looping-function/Pratikum/section7/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/7_Branching-looping-function/Pratikum/section7/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/7_Branching-looping-function/Pratikum/section7/build" />
+      <excludeFolder url="file://$MODULE_DIR$/11_Introduction Flutter Widget/Pratikum/flutter_application/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/11_Introduction Flutter Widget/Pratikum/flutter_application/build" />
+      <excludeFolder url="file://$MODULE_DIR$/11_Introduction Flutter Widget/Pratikum/flutter_application/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/build" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/17_Assets/Pratikum/section_17/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/8_Advance Function_async-await_collection/Pratikum/section8/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/8_Advance Function_async-await_collection/Pratikum/section8/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/8_Advance Function_async-await_collection/Pratikum/section8/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
